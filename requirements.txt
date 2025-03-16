@@ -1,4 +1,7 @@
+Required Libraries
+
 opencv-python
 mediapipe
 numpy
 tensorflow
+
