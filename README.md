@@ -8,3 +8,4 @@ This repository contains the partial implementation of the **Sign Language Trans
 ## Installation
 1. Clone the repository:
    ```bash
+git clone https://github.com/MehulMathodia/SignBridge-Instant-Sign-Language-Communication.git
